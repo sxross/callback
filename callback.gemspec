@@ -6,8 +6,9 @@ Gem::Specification.new do |spec|
   spec.version       = VERSION
   spec.authors       = ["Steve Ross"]
   spec.email         = ["sxross@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Allows for multi-branch callbacks from a single method. This allows for blocks of code
+to be invoked in response to asynchronous events triggered in the called method.}
+  spec.summary       = %q{Multi-branch callbacks}
   spec.homepage      = ""
   spec.license       = ""
 
