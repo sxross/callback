@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    callback (0.1)
+    motion-callback (0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -12,5 +12,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  callback!
+  motion-callback!
   rake

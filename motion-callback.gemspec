@@ -2,7 +2,7 @@
 VERSION = "0.1"
 
 Gem::Specification.new do |spec|
-  spec.name          = "callback"
+  spec.name          = "motion-callback"
   spec.version       = VERSION
   spec.authors       = ["Steve Ross"]
   spec.email         = ["sxross@gmail.com"]

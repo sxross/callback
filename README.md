@@ -1,4 +1,4 @@
-# callback
+# motion-callback
 
 Allows for multi-branch callbacks from a single method. This allows for blocks of code
 to be invoked in response to asynchronous events triggered in the called method.
@@ -15,7 +15,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install callback
+    $ gem install motion-callback
 
 ## Usage
 
